@@ -10,9 +10,9 @@
     <version>1.0.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
-            <groupId>javassist</groupId>
+            <groupId>org.javassist</groupId>
             <artifactId>javassist</artifactId>
-            <version>3.12.1.GA</version>
+            <version>3.25.0-GA</version>
         </dependency>
     </dependencies>
     <build>
