@@ -10,7 +10,7 @@ Copy to any directory 2 files:
 
 **LinuxJavaFixes-1.0.0-SNAPSHOT.jar**
 
-**javassist-3.12.1.GA.jar**
+**javassist-3.25.0-GA.jar**
 
 add 
 
@@ -44,7 +44,7 @@ Copy to any directory 2 files:
 
 **LinuxJavaFixes-1.0.0-SNAPSHOT.jar**
 
-**javassist-3.12.1.GA.jar**
+**javassist-3.25.0-GA.jar**
 
 Add following line to **eclipse.ini**.
 
